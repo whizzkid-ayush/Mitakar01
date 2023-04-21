@@ -263,3 +263,20 @@ ul li a:hover{
 .icons ion-icon:hover{
     color: #ff7200;
 }
+.image-cont{
+    float: right; width: 500px; /* adjust the width as needed */
+    height: 1040px; /* maintain aspect ratio */
+  }
+.photos1{
+    text-align: center;
+  }
+.c{
+    text-align: center;
+  }
+  .image-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    max-width: 20%;
+  }
